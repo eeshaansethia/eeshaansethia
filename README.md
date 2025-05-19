@@ -6,7 +6,9 @@
 📫 You can reach me at eeshaans05@gmail.com<br><br>
 <a href="https://github.com/eeshaansethia">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshaansethia&amp;theme=nightowl&amp;show_icons=true&amp;hide_border=true&amp;layout=compact">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshaansethia&amp;theme=nightowl&amp;hide_border=true" alt="github streak">
+</a>
+<a href="https://github.com/eeshaansethia">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshaansethia&amp;theme=nightowl&amp;hide_border=true">
 </a>
 <!---
 eeshaansethia/eeshaansethia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
